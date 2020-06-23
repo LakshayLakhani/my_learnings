@@ -1,0 +1,6 @@
+---
+ - name: Installing webserver on Debian family
+   apt:
+    name: apache2
+    state: present
+    

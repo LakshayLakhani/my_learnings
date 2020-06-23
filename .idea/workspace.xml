@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd62a61d-e051-4ba7-875f-730f4f5246e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="learnings" />
+  </component>
+  <component name="ProjectId" id="1bWXH4GiYeWUdEnfupfFXHtzVbr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\elaklak\Documents\learnings\programs\sorting\quick_sort" />
+      <recent name="C:\Users\elaklak\Documents\learnings\programs\sorting\merge_sort" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.tut2">
+    <configuration name="anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learnings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programs/strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/strings/anagram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lexographic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learnings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programs/strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/strings/lexographic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pattern_matching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learnings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programs/strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/strings/pattern_matching.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="problem1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learnings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programs/strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/strings/problem1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tut2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learnings" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine_learning/sentdex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine_learning/sentdex/tut2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tut2" />
+        <item itemvalue="Python.pattern_matching" />
+        <item itemvalue="Python.problem1" />
+        <item itemvalue="Python.anagram" />
+        <item itemvalue="Python.lexographic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd62a61d-e051-4ba7-875f-730f4f5246e2" name="Default Changelist" comment="" />
+      <created>1588748731030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588748731030</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="151" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592644734474">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="414" y="151" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1592644734474" />
+    <state width="518" height="153" key="GridCell.Tab.0.bottom" timestamp="1592646437640">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="518" height="153" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592646437640" />
+    <state width="518" height="153" key="GridCell.Tab.0.center" timestamp="1592646437639">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="518" height="153" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592646437639" />
+    <state width="518" height="153" key="GridCell.Tab.0.left" timestamp="1592646437639">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="518" height="153" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592646437639" />
+    <state width="518" height="153" key="GridCell.Tab.0.right" timestamp="1592646437639">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="518" height="153" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592646437639" />
+    <state width="543" height="173" key="GridCell.Tab.1.bottom" timestamp="1591509208137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="543" height="173" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591509208137" />
+    <state width="543" height="173" key="GridCell.Tab.1.center" timestamp="1591509208137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="543" height="173" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1591509208137" />
+    <state width="543" height="173" key="GridCell.Tab.1.left" timestamp="1591509208137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="543" height="173" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1591509208137" />
+    <state width="543" height="173" key="GridCell.Tab.1.right" timestamp="1591509208137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="543" height="173" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1591509208137" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1592841169062">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1592841169062" />
+    <state x="382" y="133" width="672" height="676" key="search.everywhere.popup" timestamp="1592645110061">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="382" y="133" width="672" height="676" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1592645110061" />
+  </component>
+</project>

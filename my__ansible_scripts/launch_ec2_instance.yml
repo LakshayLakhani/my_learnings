@@ -1,0 +1,10 @@
+#to launch ec2 instance
+
+---
+ - name: sample play to launch ec2 instance
+   hosts: localhost
+   connection: local
+   gather_facts: false
+   tasks:
+    - name: Simple task to launch ec2 instance with default values
+    
